@@ -1,0 +1,13 @@
+/venv/
+/raw-data/
+/.idea/libraries
+.DS_Store
+/build
+/captures
+raw_data/business.json
+raw_data/review.json
+raw_data/user.json
+raw_data/zip_codes_states.csv
+*.csv
+*.zip
+/.ipynb_checkpoints/
